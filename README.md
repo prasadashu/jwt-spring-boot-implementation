@@ -1,1 +1,2 @@
-# Spring Boot implementation of JWT Tokens
+# JWT Spring Boot Implementation
+Spring Boot implementation of JWT Tokens
